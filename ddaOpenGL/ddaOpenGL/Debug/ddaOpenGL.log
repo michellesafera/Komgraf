@@ -1,0 +1,14 @@
+﻿  dda.cpp
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(111): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(112): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(118): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+e:\kuliah\kompuuter grafik\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(122): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  ddaOpenGL.vcxproj -> E:\kuliah\kompuuter grafik\Garis_Lingkaran_OpenGL_C++_VS2015\ddaOpenGL\Debug\ddaOpenGL.exe
